@@ -1,13 +1,16 @@
 /*********************************************************************************
-*  WEB322 – Assignment 02
-*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part *  of this assignment has been copied manually or electronically from any other source 
-*  (including 3rd party web sites) or distributed to other students.
+* WEB322 – Assignment 02
+* I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part 
+* of this assignment has been copied manually or electronically from any other source 
+* (including 3rd party web sites) or distributed to other students.
 * 
-*  Name: Arshdeep Singh Student ID: 169494218 Date: 04 February 2023
+* Name: Arshdeep Singh Student ID: 169494218 Date: 04 February 2023
 *
-*  Online (Cyclic) Link: 
+* Cyclic Web App URL: ________________________________________________________
 *
-********************************************************************************/
+* GitHub Repository URL: ______________________________________________________
+*
+********************************************************************************/ 
 const express = require("express");
 const path = require("path");
 const { initialize, getAllPosts, getPublishedPosts, getCategories } = require("./blog-service.js");
