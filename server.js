@@ -6,9 +6,9 @@
 * 
 * Name: Arshdeep Singh Student ID: 169494218 Date: 04 February 2023
 *
-* Cyclic Web App URL: ________________________________________________________
+* Cyclic Web App URL:https://github.com/oyearsh/web322-app
 *
-* GitHub Repository URL: ______________________________________________________
+* GitHub Repository URL:https://talented-red-squirrel.cyclic.app/about
 *
 ********************************************************************************/ 
 const express = require("express");
